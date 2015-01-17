@@ -22,7 +22,7 @@
 	* [关于菜单](003_Menus/001_About_Menus.md)
 	* [菜单命名](003_Menus/002_Naming_Menus.md)
 	* [菜单分组](003_Menus/003_Grouping_Menu_Items.md)
-	* [变更菜单项](003_Menus/004_Changing_Menu_Item.md) **<== 就翻译到这里了**
+	* [变更菜单项](003_Menus/004_Changing_Menu_Item.md)
 	* 使用图标和符号
 	* 菜单栏菜单
 	* 层级菜单
