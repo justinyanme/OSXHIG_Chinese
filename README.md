@@ -10,7 +10,9 @@ iOS 的 HIG 文档读过的人很多了，相比而言 OS X 文档读的人要�
 
 ## 在线阅读
 
-[http://osxhig.justinyan.me/](http://osxhig.justinyan.me/)
+基于 BootStrap 的版本： [http://osxhig.justinyan.me/](http://osxhig.justinyan.me/)
+
+Gitbook 的版本：[https://www.gitbook.com/book/justinyim/osxhig](https://www.gitbook.com/book/justinyim/osxhig)
 
 ## 文档目录
 
