@@ -2,7 +2,7 @@
 
 ## 简介
 
-本文档为 Apple OS X Human Interface Guidelines 的非官方翻译版。截至本译稿发布时 OS X 的最新版为 10.10.2。
+本文档为 [Apple OS X Human Interface Guidelines](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 的非官方翻译版。截至本译稿发布时 OS X 的最新版为 10.10.2。
 
 iOS 的 HIG 文档读过的人很多了，相比而言 OS X 文档读的人要少得多，客观原因自然是国内 Mac 用户不多，做 Mac 应用的市场太小众，没什么人愿意去做，自然也就没什么需求。鄙人有做过一点 Mac App 开发，在后期优化的过程中，自觉应用里还有很多不符合 Apple 规范的，读了一遍 OS X HIG，有所收获，再看似乎没有中文译版，就随手翻译了一把。Apple 的这份文档已经撰写多年，每年更新 OS X 之后都会对内容做相应的修改。
 
