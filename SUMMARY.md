@@ -1,7 +1,7 @@
 # Summary
 
 * [关于本书](README.md)
-* UI设计基础
+* 第一章 UI设计基础
 	* [为 Yosemite 设计](001_UIBasic/001_DesignForYosemite.md)
 	* [应用风格剖析](001_UIBasic/002_AppAnatomy.md) 
 	* [启动与关闭](001_UIBasic/003_StartStop.md)
@@ -15,3 +15,11 @@
 	* [图标与视觉](001_UIBasic/011_IconAndGraphic.md)
 	* [措辞和用语](001_UIBasic/012_Terminlogy.md)
 	* [集成到 OS X](001_UIBasic/013_OSX.md)
+* 第二章 设计策略
+	* [设计原则](002_DesignStrategies/001_Design_Principles.md)
+	* [以用户为中心的设计](002_DesignStrategies/002_User_Centerd_Design.md)
+* 第三章 菜单
+	* [关于菜单](003_Menus/001_About_Menus.md)
+	* [菜单命名](003_Menus/002_Naming_Menus.md)
+	* [菜单分组](003_Menus/003_Grouping_Menu_Items.md)
+	* [变更菜单项](003_Menus/004_Changing_Menu_Item.md)
