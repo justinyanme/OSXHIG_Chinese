@@ -1,4 +1,4 @@
-# OSXHIG_Chinese
+# OS X 界面设计指南
 
 本文档为 Apple OS X Human Interface Guidelines 的非官方翻译版。截至本译稿发布时 OS X 的最新版为 10.10.2。
 
